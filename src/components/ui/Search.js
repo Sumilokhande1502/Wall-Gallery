@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from '../characters/node_modules/react'
 
 const Search = ({ getQuery }) => {
   const [text, setText] = useState('')

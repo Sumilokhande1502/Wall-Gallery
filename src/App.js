@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect } from './components/characters/node_modules/react'
 import axios from 'axios'
 import Header from './components/ui/Header'
-import ImageGrid from './components/Images/ImageGrid'
+import ImageGrid from './components/characters/ImageGrid'
 import Search from './components/ui/Search'
 import './App.css'
 
